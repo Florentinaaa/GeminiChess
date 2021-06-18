@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminiChess", "GeminiChess\GeminiChess.csproj", "{94846AEA-458C-480C-A1F2-34E7005CEBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminiChessServer", "GeminiChessServer\GeminiChessServer.csproj", "{8A8A853E-34DF-4C40-9D54-901C37062695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94846AEA-458C-480C-A1F2-34E7005CEBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94846AEA-458C-480C-A1F2-34E7005CEBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94846AEA-458C-480C-A1F2-34E7005CEBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94846AEA-458C-480C-A1F2-34E7005CEBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8A853E-34DF-4C40-9D54-901C37062695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8A853E-34DF-4C40-9D54-901C37062695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8A853E-34DF-4C40-9D54-901C37062695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8A853E-34DF-4C40-9D54-901C37062695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C7A291-D9FA-4237-9A1D-795D0164E4AD}
+	EndGlobalSection
+EndGlobal
